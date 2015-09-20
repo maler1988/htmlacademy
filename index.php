@@ -3,6 +3,7 @@
 	<head>
 		<title>Barbershop Borodinski</title>
 		<meta charset="utf-8" >
+		<link rel="stylesheet" href="/css/style.css" >
 	</head>
 	<body>
 		<!-- Верхнее меню -->
@@ -18,7 +19,7 @@
 				</ul>
 				<!-- аккаунт блок -->
 				<div class="account-menu">
-					<a class="account-menu-enter" href="#"  ></a>
+					<a class="account-menu-enter" href="#"  >Войти</a>
 				</div>
 			</div>
 		</div>
@@ -99,5 +100,8 @@
 				</div>
 			</div>
 		</div>
+		
+		<script type="text/javascript" src="/js/init.js" ></script>
+		<script type="text/javascript" src="/js/script.js" ></script>
 	</body>
 </html>

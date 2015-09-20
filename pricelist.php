@@ -3,6 +3,7 @@
 	<head>
 		<title>Barbershop Borodinski - Прайс-лист</title>
 		<meta charset="utf-8" >
+		<link rel="stylesheet" href="/css/style.css" >
 	</head>
 	<body>
 		<!-- Верхнее меню -->
@@ -99,5 +100,7 @@
 				</div>
 			</div>
 		</div>
+		<script type="text/javascript" src="/js/init.js" ></script>
+		<script type="text/javascript" src="/js/script.js" ></script>
 	</body>
 </html>		
